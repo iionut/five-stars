@@ -1,0 +1,10 @@
+{
+  "name": "iionut/star-rating",
+  "homepage": "https://github.com/iionut/star-rating",
+  "authors": [
+    "Ionut Iosif <iosif.liviu.ionut@gmail.com>"
+  ],
+  "description": "Star rating system",
+  "main": "",
+  "license": "MIT"
+}
